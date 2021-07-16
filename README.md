@@ -1,3 +1,4 @@
 # BlinkEffect
 # BlinkEffect
 # BlinkLibrary
+# BlinkEffectViews
